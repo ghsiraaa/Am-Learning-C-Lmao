@@ -1,2 +1,2 @@
 # Am-Learning-C-Lmao
-Basically my C# test game file
+Pls don't do anything stupid to the code if u don't know what u're doing.
